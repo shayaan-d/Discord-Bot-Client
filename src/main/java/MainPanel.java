@@ -4,13 +4,10 @@ import org.javacord.api.entity.server.Server;
 
 import javax.swing.*;
 import java.awt.*;
-/*
- * Created by JFormDesigner on Fri Nov 22 23:59:46 EST 2024
- */
-
 
 
 /**
+ * The main panel class 
  * @author shayaan
  */
 public class MainPanel extends JPanel {
